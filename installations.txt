@@ -1,0 +1,5 @@
+//phosphor-icons
+npm i @phosphor-icons/react
+
+//mui
+npm install @mui/material @emotion/react @emotion/styled
